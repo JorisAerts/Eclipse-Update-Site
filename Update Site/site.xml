@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/Eclipse_Tools_1.0.0.202010011000.jar" id="Eclipse_Tools" version="1.0.0.202010011000"/>
+   <feature url="features/Eclipse-Tools_1.0.0.202010011008.jar" id="Eclipse-Tools" version="1.0.0.202010011008"/>
 </site>

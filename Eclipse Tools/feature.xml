@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="Eclipse_Tools"
-      label="Eclipse_Tools"
+      id="Eclipse-Tools"
+      label="Joris&apos; Eclipse Tools"
       version="1.0.0.qualifier">
 
    <description url="https://jorisaerts.github.io/Eclipse-Environment-Variables/description">
