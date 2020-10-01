@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="Eclipse_Tools"
+      label="Eclipse_Tools"
+      version="1.0.0.qualifier">
+
+   <description url="https://jorisaerts.github.io/Eclipse-Environment-Variables/description">
+      Eclipse Tools
+   </description>
+
+   <copyright url="https://jorisaerts.github.io/Eclipse-Environment-Variables//copyright">
+      Copyright © 2016-2020 Joris Aerts
+   </copyright>
+
+   <license url="https://raw.githubusercontent.com/JorisAerts/Eclipse-Environment-Variables/master/LICENSE">
+      MIT License
+   </license>
+
+   <plugin
+         id="Eclipse-Environment-Variables"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
