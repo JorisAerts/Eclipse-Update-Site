@@ -2,7 +2,7 @@
 <feature
       id="Eclipse-Tools"
       label="Joris&apos; Eclipse Tools"
-      version="1.0.0.qualifier"
+      version="1.0.1.qualifier"
       os="linux,macosx,win32">
 
    <description url="https://jorisaerts.github.io/Eclipse-Environment-Variables/description">
