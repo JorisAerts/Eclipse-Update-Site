@@ -3,7 +3,8 @@
       id="Eclipse-Tools"
       label="Joris&apos; Eclipse Tools"
       version="1.0.1.qualifier"
-      os="linux,macosx,win32">
+      os="linux,macosx,win32"
+      arch="aarch64,x86,x86_64">
 
    <description url="https://jorisaerts.github.io/Eclipse-Environment-Variables/description">
       Eclipse Tools
